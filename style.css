@@ -20,7 +20,11 @@ ul {
     overflow: hidden;
     float: left;
 }
+h3{
+  font-family: 'Lobster';
+}
 
+  h3 { color:#063cb9; text-align:center; }
 
 a:link, a:visited {
   font-family: "Bangers";
